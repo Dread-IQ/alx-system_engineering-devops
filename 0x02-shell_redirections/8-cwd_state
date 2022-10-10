@@ -1,2 +1,2 @@
 vi 8-cwd_state
-tail --lines=1 iacta >> iacta
+ls -la >> ls_cwd_content
